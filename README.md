@@ -5,4 +5,4 @@ Is it possible to judge a person's morality based only on their face? This proje
 
 ## Description
 
-Report can be found here: https://foxtrv.github.io/
+Report can be found here: https://foxtrv.files.wordpress.com/2018/05/385finalproject-evildetection.pdf
